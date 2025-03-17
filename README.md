@@ -1,4 +1,6 @@
+<div align="center">
 # Harsh Kumar | 👨‍💻 Security Engineer
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Security-Engineer-black?style=for-the-badge&logo=hackaday&logoColor=white" />
