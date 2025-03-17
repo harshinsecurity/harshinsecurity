@@ -18,11 +18,15 @@ Expertise: Web + Mobile + Cloud + Network Security, Threat Modeling
 <div align="center"> <table> <tr> <td> <h3>📡 xploitfree scanner</h3> <p>Python-based framework with 80+ vulnerability tests providing severity-based categorization and remediation.</p> </td> <td> <h3>🛠️ Scripty</h3> <p>Bash Script automating the Recon process for security researchers.</p> </td> </tr> <tr> <td> <h3>🔑 MantraMatch</h3> <p>Go-based tool for rapid identification and validation of unknown API keys.</p> </td> <td> <h3>🔒 sentinelssh</h3> <p>Go-powered scanner targeting CVE-2024-6387 in OpenSSH servers.</p> </td> </tr> </table> </div>
 
 ## 🏆 Vulnerability Hunter
-```bash
+<div align="center"> <img src="https://img.shields.io/badge/100+-HoFs-FF3E00?style=for-the-badge&logo=bugcrowd&logoColor=white" /> </div>
+<div align="center">  
+  <pre>
 $ cat achievements.txt
 Disclosed critical vulnerabilities across 100+ global organizations
 including Apple, Google, Slack, Nokia, and government entities
-```
+  </pre>
+</div>  
+
 
 ## 💼 Experience
 ```text
@@ -43,4 +47,4 @@ including Apple, Google, Slack, Nokia, and government entities
 01001000 01100001 01110010 01110011 01101000 00100000 01001011 01110101 01101101 01100001 01110010
   </pre>
 </div>  
-```
+
