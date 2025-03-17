@@ -38,5 +38,10 @@ including Apple, Google, Slack, Nokia, and government entities
 ```
 
 ## 🌐 Connect
-<p align="center"> <a href="mailto:hi@harshinsecurity.in"> <img src="https://img.shields.io/badge/Email-hi@harshinsecurity.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/Harsh-Kumar"> <img src="https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://harshinsecurity.in"> <img src="https://img.shields.io/badge/Website-harshinsecurity.in-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=harshinsecurity&color=brightgreen&style=for-the-badge" /> </div><div align="center"> ```text 01001000 01100001 01110010 01110011 01101000 00100000 01001011 01110101 01101101 01100001 01110010 ``` </div> ```
-
+<p align="center"> <a href="mailto:hi@harshinsecurity.in"> <img src="https://img.shields.io/badge/Email-hi@harshinsecurity.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/Harsh-Kumar"> <img src="https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://harshinsecurity.in"> <img src="https://img.shields.io/badge/Website-harshinsecurity.in-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=harshinsecurity&color=brightgreen&style=for-the-badge" />
+<div align="center">  
+  <pre>
+01001000 01100001 01110010 01110011 01101000 00100000 01001011 01110101 01101101 01100001 01110010
+  </pre>
+</div>  
+```
