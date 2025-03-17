@@ -1,5 +1,5 @@
 <div align="center">
-# Harsh Kumar | 👨‍💻 Security Engineer
+  <h1>Harsh Kumar | 👨‍💻 Security Engineer</h1>
 </div>
 
 <div align="center">
