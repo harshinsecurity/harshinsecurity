@@ -11,7 +11,7 @@ I am committed to preserving data integrity and thwarting malicious actors in an
 ```bash
 Languages: Python, Go, PowerShell, Bash, SQL, C, C++
 Security Tools: Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Splunk, OWASP ZAP, IDA Pro, Ghidra
-Expertise: Web/Mobile/Cloud Security, Network Security, OWASP Top 10, Vulnerability Assessment, Penetration Testing
+Expertise: Web + Mobile + Cloud + Network Security, Threat Modeling
 ```
 
 ## 🚀 Featured Projects
@@ -23,6 +23,11 @@ Expertise: Web/Mobile/Cloud Security, Network Security, OWASP Top 10, Vulnerabil
 $ cat achievements.txt
 Disclosed critical vulnerabilities across 100+ global organizations
 including Apple, Google, Slack, Nokia, and government entities
+```
+```bash
+Languages: Python, Go, PowerShell, Bash, SQL, C, C++
+Security Tools: Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Splunk, OWASP ZAP, IDA Pro, Ghidra
+Expertise: Web + Mobile + Cloud + Network Security, Threat Modeling
 ```
 
 ## 💼 Experience
