@@ -1,0 +1,105 @@
+<svg fill="none" viewBox="0 0 800 250" width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes terminal-text {
+          0% { color: #00ff00; text-shadow: 0 0 10px #00ff00; }
+          50% { color: #00cc00; text-shadow: 0 0 5px #00cc00; }
+          100% { color: #00ff00; text-shadow: 0 0 10px #00ff00; }
+        }
+        
+        @keyframes matrix-bg {
+          0% { background-position: 0% 0%; }
+          100% { background-position: 0% 100%; }
+        }
+        
+        .container {
+          background: linear-gradient(rgba(0, 10, 0, 0.9), rgba(0, 20, 0, 0.95)), 
+                      url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800"><text x="16" y="16" font-family="monospace" font-size="16" fill="rgba(0,255,0,0.1)">10101011010100111001011001010101010101010100100101010101010111101</text></svg>');
+          background-size: 100% 400%;
+          animation: matrix-bg 30s linear infinite;
+          width: 100%;
+          height: 250px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          color: #00ff00;
+          font-family: 'Courier New', monospace;
+          border: 1px solid #00ff00;
+          box-shadow: 0 0 15px #00ff00;
+        }
+        
+        .terminal {
+          width: 90%;
+          height: 80%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+        
+        .title {
+          font-size: 2.5em;
+          font-weight: bold;
+          margin: 0;
+          animation: terminal-text 2s infinite;
+          text-align: center;
+        }
+        
+        .subtitle {
+          font-size: 1.2em;
+          margin: 10px 0;
+          opacity: 0.8;
+          text-align: center;
+        }
+        
+        .command-line {
+          display: flex;
+          align-items: center;
+          margin-top: 20px;
+          font-size: 1em;
+          width: 80%;
+        }
+        
+        .cursor {
+          display: inline-block;
+          width: 10px;
+          height: 18px;
+          background-color: #00ff00;
+          margin-left: 5px;
+          animation: blink 1s step-end infinite;
+        }
+        
+        @keyframes blink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+        }
+        
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+          .title {
+            animation: none;
+          }
+          .cursor {
+            animation: none;
+          }
+        }
+      </style>
+      
+      <div class="container">
+        <div class="terminal">
+          <div class="title">HARSH KUMAR</div>
+          <div class="subtitle">Product Security Engineer | Vulnerability Hunter | Digital Guardian</div>
+          <div class="command-line">
+            <span>root@security:~# </span>
+            <span>executing exploit framework...</span>
+            <span class="cursor"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
